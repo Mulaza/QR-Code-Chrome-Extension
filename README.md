@@ -1,4 +1,4 @@
-# QR CODE Chrome Extension
+# QR Code Chrome Extension
 
 ## Description
 
