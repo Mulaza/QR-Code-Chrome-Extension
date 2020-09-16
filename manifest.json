@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Real Person Extension",
-  "description": "QOnly the realest can have this extsnsion",
+  "name": "Webpage QR",
+  "description": "Creates downloadable QR Code of the current webpage",
   "version": "1.0.0",
   "icons": {
     "128": "icon_128.png"
@@ -11,6 +11,7 @@
     "default_popup": "popup.html"
   },
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "tabs"
   ]
 }
