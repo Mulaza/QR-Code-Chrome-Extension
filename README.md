@@ -2,7 +2,7 @@
 
 ## Description
 
- A one click solution to converting a website URL into a scannable and downloadable QR Code.
+Quicky conver the URL of any webpage into a downloadable QR code with this neat little chrome extension.
 
 ## Dependecies
  * [QR](https://github.com/davidshimjs/qrcodejs)
